@@ -24,4 +24,3 @@ I Am Pradyumn Tandon<br>Working For Preferred 7 Technologies<br>Intermediate In 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Gamecooler19@hotmail.com) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
