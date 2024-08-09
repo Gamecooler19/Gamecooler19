@@ -21,6 +21,6 @@ I Am Pradyumn Tandon<br>Working For Preferred 7 Technologies<br>Intermediate In 
 
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Gamecooler19@hotmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Gamecooler19) 
 
   
