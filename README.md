@@ -21,6 +21,8 @@ Hi there! 👋 I'm a software developer with over a half decade of experience, p
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gamecooler19&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Gamecooler19&icon=2&color=2)](https://visitcount.itsvg.in)
 
