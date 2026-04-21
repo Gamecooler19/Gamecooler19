@@ -1,28 +1,84 @@
-# 💫 About Me:
-Hi there! 👋 I'm a software developer with over a half decade of experience, primarily working with Python and Rust. My expertise spans across backend and frontend development, with hands-on experience in GO Lang and CSS as well. I have a strong interest in machine learning and data science, and I’m always exploring ways to integrate these fields into real-world applications.<br><br>I’m passionate about writing clean, efficient, and maintainable code, and I’m a firm believer in the importance of unit testing, refactoring, and following design patterns. You’ll find a mix of personal projects, open-source contributions, and experiments with new technologies in my repositories.<br><br>Outside of coding, I enjoy learning about the latest trends in software development, focusing on performance optimization, security best practices, and applying machine learning algorithms to solve complex problems.<br><br>Feel free to connect or collaborate with me on any interesting projects! 🚀
+<div align="center">
 
+<a href="https://pradyumntandon.com"><img src="https://img.shields.io/badge/Portfolio-pradyumntandon.com-1a6bff?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/pradyumntandon"><img src="https://img.shields.io/badge/LinkedIn-pradyumntandon-0f1a3d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:pradyumn@kanopus.org"><img src="https://img.shields.io/badge/Email-pradyumn@kanopus.org-d4a853?style=for-the-badge" alt="Email" /></a>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RkbhZASV4M) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100088661441839) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradyumntandon) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gamecooler19) 
+# Pradyumn Tandon
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gamecooler19&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gamecooler19&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamecooler19&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Founder of VRIP7 · AI/ML Engineer · Python Backend Engineer**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gamecooler19&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+*Building production-grade AI systems, secure platforms, and developer tools from Ujjain, India.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gamecooler19&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+[Portfolio](https://pradyumntandon.com) · [LinkedIn](https://linkedin.com/in/pradyumntandon) · [Kanopus Development](https://github.com/KanopusDev) · [VRIP7](https://github.com/vrip7)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gamecooler19&icon=2&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/pradyumntandon) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/Gamecooler19) 
+</div>
+
+## About
+
+I build software systems across **AI/ML**, **backend engineering**, **developer tooling**, and **security-focused platforms**.
+
+My work is centered on practical engineering: shipping usable products, keeping architecture clean, and treating reliability, performance, and maintainability as first-class concerns.
+
+I am the founder of **VRIP7** and the builder behind **Kanopus Development**, where I work on software products, open-source systems, internal tooling, and experimental engineering projects.
+
+## Current Focus
+
+- AI/ML workflow architecture
+- multi-agent systems and LLM orchestration
+- Python backend engineering
+- FastAPI, PostgreSQL, Redis, and Docker-based systems
+- developer tools and CLI-native products
+- security-oriented software design
+- computer vision and low-level systems exploration
+
+## Selected Public Work
+
+| Project | Description | Link |
+|---|---|---|
+| **Canopus** | CLI-native, local-first AI assistant runtime focused on automation, workflows, memory, and extensibility | [View](https://github.com/Gamecooler19/Canopus) |
+| **Lynx** | Terminal-native AI coding agent with semantic search, rollback support, and multi-provider workflows | [View](https://github.com/Gamecooler19/Lynx) |
+| **Mindwall** | Self-hosted email security platform using local LLM analysis and IMAP/SMTP proxying | [View](https://github.com/Gamecooler19/Mindwall) |
+| **Aureon** | Public engineering project published under my personal GitHub | [View](https://github.com/Gamecooler19/Aureon) |
+
+## Organizations
+
+| Organization | Role |
+|---|---|
+| [**VRIP7**](https://github.com/vrip7) | Parent group and multi-vertical business identity |
+| [**Kanopus Development**](https://github.com/KanopusDev) | Software, engineering, open-source work, and technical products |
+| [**Gamecooler19**](https://github.com/Gamecooler19) | Personal profile for individual projects, experiments, and public work |
+
+## Principles
+
+I prefer to build deliberately:
+
+- ship fewer things, but build them well
+- keep systems maintainable and readable
+- favor architecture over noise
+- treat open source as disciplined engineering
+- build for long-term usefulness, not short-term hype
+
+## Connect
+
+| | |
+|---|---|
+| 🌐 Portfolio | [pradyumntandon.com](https://pradyumntandon.com) |
+| 💼 LinkedIn | [linkedin.com/in/pradyumntandon](https://linkedin.com/in/pradyumntandon) |
+| 📧 Email | [pradyumn@kanopus.org](mailto:pradyumn@kanopus.org) |
+| 🏢 VRIP7 | [github.com/vrip7](https://github.com/vrip7) |
+| 🧠 Kanopus Development | [github.com/KanopusDev](https://github.com/KanopusDev) |
+| 🐦 X / Twitter | [@gamecooler19](https://x.com/gamecooler19) |
+| 📸 Instagram | [@pradyumntandon](https://instagram.com/pradyumntandon) |
+
+---
+
+<div align="center">
+
+**Portfolio:** [pradyumntandon.com](https://pradyumntandon.com)
+
+<sub>Build deliberately. Keep systems clean.</sub>
+
+</div>
